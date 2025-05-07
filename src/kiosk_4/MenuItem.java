@@ -1,6 +1,4 @@
-package kiosk_3;
-
-import java.util.ArrayList;
+package kiosk_4;
 
 public class MenuItem {
     //속
